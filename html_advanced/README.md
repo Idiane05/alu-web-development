@@ -38,5 +38,5 @@ If you need further assistance or have any questions related to this project, re
 - [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## [Platform Preview]
-![Image1](../html_advanced/pictures/image1.jpg)
+![Image](../html_advanced/img/Bitmap%20(2).png)
 
