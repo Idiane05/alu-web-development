@@ -38,5 +38,5 @@ If you need further assistance or have any questions related to this project, re
 - [CSS Tutorial](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## [Platform Preview]
-![Alt Text](../html_advanced/pictures/image1.jpg)
+![Image1](../html_advanced/pictures/image1.jpg)
 
