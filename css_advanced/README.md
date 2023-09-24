@@ -1,2 +1,2 @@
 ## Preview of the platform
-![Alt Text](../css_advanced/img/one.jpg)
+![Alt Text](../html_advanced/img/one.jpg)
